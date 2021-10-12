@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1598986388 source:c:\users\mayor\documents\c++\raymarching\main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	"global_variables.h"
+	"functions.h"
+
+1598991751 c:\users\mayor\documents\c++\raymarching\global_variables.h
+	<vector>
+	"default_classes.h"
+	"shapes.h"
+
+1598991432 source:c:\users\mayor\documents\c++\raymarching\default_classes.cpp
+	<iostream>
+	<math.h>
+	"default_classes.h"
+
+1598991672 source:c:\users\mayor\documents\c++\raymarching\functions.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<math.h>
+	"functions.h"
+	"global_variables.h"
+	"default_classes.h"
+
+1598986155 c:\users\mayor\documents\c++\raymarching\functions.h
+	"default_classes.h"
+
+1598991394 source:c:\users\mayor\documents\c++\raymarching\shapes.cpp
+	"default_classes.h"
+	"shapes.h"
+	"functions.h"
+
+1598973595 c:\users\mayor\documents\c++\raymarching\default_classes.h
+	<SDL2/SDL.h>
+
+1598987440 source:c:\users\mayor\documents\c++\raymarching\global_variables.cpp
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+
+1598991410 c:\users\mayor\documents\c++\raymarching\shapes.h
+	"default_classes.h"
+
+1599292415 source:c:\users\mayor\desktop\raymarching\functions.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<math.h>
+	<vector>
+	"functions.h"
+	"global_variables.h"
+	"shapes.h"
+
+1599288288 c:\users\mayor\desktop\raymarching\functions.h
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+
+1599290246 c:\users\mayor\desktop\raymarching\default_classes.h
+	<SDL2/SDL.h>
+
+1599292439 c:\users\mayor\desktop\raymarching\global_variables.h
+	<SDL2/SDL.h>
+
+1599290892 c:\users\mayor\desktop\raymarching\shapes.h
+	"default_classes.h"
+
+1599288349 source:c:\users\mayor\desktop\raymarching\main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+	"functions.h"
+
+1599288177 source:c:\users\mayor\desktop\raymarching\shapes.cpp
+	"default_classes.h"
+	"shapes.h"
+	"functions.h"
+
+1599290262 source:c:\users\mayor\desktop\raymarching\default_classes.cpp
+	<iostream>
+	<math.h>
+	"default_classes.h"
+
+1599286891 source:c:\users\mayor\desktop\raymarching\global_variables.cpp
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+
+1600005814 source:c:\users\mayor\documents\raymarching2\default_classes.cpp
+	<iostream>
+	<math.h>
+	"default_classes.h"
+
+1599286646 c:\users\mayor\documents\raymarching2\default_classes.h
+	<SDL2/SDL.h>
+
+1600005694 source:c:\users\mayor\documents\raymarching2\functions.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<math.h>
+	<vector>
+	"functions.h"
+	"global_variables.h"
+	"shapes.h"
+
+1599284688 c:\users\mayor\documents\raymarching2\functions.h
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+
+1600005475 c:\users\mayor\documents\raymarching2\global_variables.h
+	<SDL2/SDL.h>
+
+1599287292 c:\users\mayor\documents\raymarching2\shapes.h
+	"default_classes.h"
+
+1599283291 source:c:\users\mayor\documents\raymarching2\global_variables.cpp
+	<vector>
+	"global_variables.h"
+	"shapes.h"
+
+1600005848 source:c:\users\mayor\documents\raymarching2\main.cpp
+	<SDL2/SDL.h>
+	<iostream>
+	<vector>
+	<time.h>
+	<math.h>
+	"global_variables.h"
+	"shapes.h"
+	"functions.h"
+
+1599284577 source:c:\users\mayor\documents\raymarching2\shapes.cpp
+	"default_classes.h"
+	"shapes.h"
+	"functions.h"
+
